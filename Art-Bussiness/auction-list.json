@@ -1,0 +1,12 @@
+{
+  "artworks": [
+    {
+      "id": "sunset001",
+      "title": "Eternal Sunset",
+      "artist": "Maria Rodriguez",
+      "bids": [12500, 12800, 12900],
+      "images": ["img1.jpg", "img2.jpg"],
+      "docs": ["legal1.pdf"]
+    }
+  ]
+}
